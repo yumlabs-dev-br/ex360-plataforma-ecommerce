@@ -8,7 +8,7 @@ API REST de e-commerce com produtos, carrinho, pedidos e cupons de desconto.
 
 ```bash
 npm install
-npm start        # inicia em http://localhost:3001
+npm start        # inicia em http://localhost:3000
 ```
 
 O projeto já sobe com uma rota raiz `GET /`. Todo o resto é com o grupo.
